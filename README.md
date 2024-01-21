@@ -28,9 +28,28 @@ Node.js
 Express
 MongoDB
 Axios (for making HTTP requests)
+Html
+CSS
+JavaScript
 
 
+![webyapra](https://github.com/Deepakkumar325/Admin-Managed-User-Access-Image-Cropping/assets/101499873/6795e584-da2c-4961-b76a-90a0bb2c022c)
 
 ##Feel free to customize it further based on your specific project details and requirements.
+
+
+# Clone the repository
+git clone https://github.com/your-username/Admin-Managed-User-Access-Image-Cropping.git
+
+# Navigate to project directory
+cd Admin-Managed-User-Access-Image-Cropping
+
+# Install dependencies
+npm install
+# Client Start with 
+npx http-server --cors
+# Server File Run 
+nodemon app.js
+
 
 
